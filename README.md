@@ -1,6 +1,6 @@
 # Olá, eu sou a Rebeca!
 - Estudante de Desenvolvimento de Sistemas
-- Focada em Python, apaixonada por front-end e curiosa sobre mobile 
+- Aprendendo Python, apaixonada por front-end e curiosa sobre mobile 
 - Preparando-me para o mercado de tecnologia
 - Contato: beckaolivers67@gmail.com
 <!--
