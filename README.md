@@ -1,8 +1,8 @@
-# Olá, eu sou a Rebeca!
-- Estudante de Desenvolvimento de Sistemas
-- Aprendendo Python, apaixonada por front-end e curiosa sobre mobile 
-- Preparando-me para o mercado de tecnologia
-- Contato: beckaolivers67@gmail.com
+# 👋🏻 Olá, eu sou a Rebeca!
+- 📚 Estudante de Desenvolvimento de Sistemas
+- 🐍 Aprendendo Python, apaixonada por front-end e curiosa sobre mobile 
+- 👩🏻‍💻 Preparando-me para o mercado de tecnologia
+- 📨 Contato: beckaolivers67@gmail.com
 <!--
 **rebeca-oliveirasb/rebeca-oliveirasb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
