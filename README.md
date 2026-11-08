@@ -1,6 +1,6 @@
   # 👋🏻 Olá, eu sou a Rebeca!
 - 📚 Estudante de Desenvolvimento de Sistemas - ETEC
-- 🐍 Aprendendo Python, html, apaixonada por front-end e curiosa sobre mobile 
+- 🐍 Aprendendo linguagens de programação, desenvolvimento web, BD 
 - 👩🏻‍💻 Preparando-me para o mercado de tecnologia
 - 📨 Contato: beckaolivers67@gmail.com
 
